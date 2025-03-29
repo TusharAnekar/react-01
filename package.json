@@ -1,0 +1,22 @@
+{
+  "name": "react-01",
+  "version": "1.0.0",
+  "description": "This is react 01",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharAnekar/react-01.git"
+  },
+  "author": "Tushar Anekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TusharAnekar/react-01/issues"
+  },
+  "homepage": "https://github.com/TusharAnekar/react-01#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
